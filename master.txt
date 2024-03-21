@@ -1,2 +1,4 @@
 - Dùng để merge các tính năng vào branch
-- Tạo branch mới từ branch master
+- file sinh ra tư branch mới từ branch master
+la file cục bộ trong branch test_conflict.
+
